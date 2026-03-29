@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm vyom from manipal university jaipur<br><br>- computer science undergraduate, figuring things out as i go<br>- interested in ai/ml, neural networks, and how intelligent systems actually work<br>- trying to focus more on fundamentals than just tools<br>- exploring full-stack development as a way to build and ship ideas<br>- experimenting with automation workflows and tools like claude code, openclaw, and n8n<br>- curious about philosophy and art, and how they shape thinking<br>- just building, learning, and seeing where it all goes" this is good</p>
+<p align="left">I'm vyom from manipal university jaipur<br><br>- computer science undergraduate, figuring things out as i go<br>- interested in ai/ml, neural networks, and how intelligent systems actually work<br>- trying to focus more on fundamentals than just tools<br>- exploring full-stack development as a way to build and ship ideas<br>- experimenting with automation workflows and tools like claude code, openclaw, and n8n<br>- curious about philosophy and art, and how they shape thinking<br>- just building, learning, and seeing where it all goes</p>
 
 ###
 

@@ -1,12 +1,20 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">building, learning, thinking.</h1>
 
 ###
 
-<h3 align="left">🧑‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm vyom from manipal university jaipur<br><br>- computer science undergraduate, figuring things out as i go<br>- interested in ai/ml, neural networks, and how intelligent systems actually work<br>- trying to focus more on fundamentals than just tools<br>- exploring full-stack development as a way to build and ship ideas<br>- experimenting with automation workflows and tools like claude code, openclaw, and n8n<br>- curious about philosophy and art, and how they shape thinking<br>- just building, learning, and seeing where it all goes</p>
+<p align="left">
+I'm Vyom, a Computer Science undergraduate at Manipal University Jaipur.<br><br>
+
+- building from first principles<br>
+- exploring ai/ml, neural networks, and intelligent systems<br>
+- using full-stack development to build and ship ideas<br>
+- experimenting with automation using claude code, openclaw, and n8n<br>
+- interested in philosophy, mathematics, and the art of thinking
+</p>
 
 ###
 

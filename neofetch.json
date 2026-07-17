@@ -1,0 +1,91 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        {
+          "key": "Name",
+          "value": "Vyom Chaturvedi"
+        },
+        {
+          "key": "Role",
+          "value": "AI Engineer"
+        },
+        {
+          "key": "University",
+          "value": "Manipal University Jaipur ('28)"
+        },
+        {
+          "key": "Location",
+          "value": "India"
+        },
+        {
+          "key": "Portfolio",
+          "value": "https://yourportfolio.com"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "key": "Stack",
+          "value": "Python, TypeScript, C++"
+        },
+        {
+          "key": "AI",
+          "value": "LangChain, OpenAI, Ollama"
+        },
+        {
+          "key": "Frontend",
+          "value": "React, Next.js, TailwindCSS"
+        },
+        {
+          "key": "Backend",
+          "value": "FastAPI, Node.js"
+        },
+        {
+          "key": "Database",
+          "value": "PostgreSQL, ChromaDB"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "key": "Current",
+          "value": "Building Multi-Agent AI Systems"
+        },
+        {
+          "key": "Learning",
+          "value": "LLM Engineering & AI Agents"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": {
+          "key": "Repos",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Stars",
+          "value": "{{stars}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Commits",
+          "value": "{{commits}}"
+        },
+        "right": {
+          "key": "Followers",
+          "value": "{{followers}}"
+        }
+      },
+      "loc"
+    ]
+  }
+}

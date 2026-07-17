@@ -1,4 +1,8 @@
 {
+  "image": "https://raw.githubusercontent.com/vyom10445/vyom10445/main/neofetch.png",
+  "removeBackground": true,
+  "imageScale": 1.2,
+  
   "sections": [
     {
       "title": "{{username}}@github",
